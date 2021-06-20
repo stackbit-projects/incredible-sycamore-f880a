@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sign Up
 sections: []
 seo:
   title: ''
